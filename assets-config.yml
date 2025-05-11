@@ -1,0 +1,15 @@
+# ملف تكوين لأصول زمولي الكبيرة
+# تم إنشاؤه تلقائياً بواسطة عمر
+
+# معلومات الإصدار
+releaseTag: assets-680699
+releaseUrl: https://github.com/Zmmoly/zamouli-ai-assistant-679400/releases/tag/assets-680699
+
+# روابط تنزيل الملفات الكبيرة
+app/ml/model.tflite: https://github.com/Zmmoly/zamouli-ai-assistant-679400/releases/download/assets-680699/model.tflite
+
+# تعليمات التحميل
+# يمكن استخدام هذه الروابط لتنزيل الملفات الكبيرة مثل نماذج التعلم الآلي
+
+# معلومات إضافية
+تاريخ_الإنشاء: 2025-05-11T09:11:21.449Z
